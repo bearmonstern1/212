@@ -1,10 +1,11 @@
 ## 强烈推荐
-https://t.me/gyjclub  固定订阅：https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
+https://t.me/gyjclub  固定订阅(更新较慢)：https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
 
 https://tool.ssrshare.com/tool/free_ssr
 
 https://free-ss.site/
-## 本repo仅提供来自网络的免费ss列表，不再提供免费ss
+
+#### 本repo仅提供来自网络的免费ss列表，不再提供免费ss
 
 https://doub.io/sszhfx/<br />
 https://www.gitbook.com/book/dixonshen/ss-server/details<br />

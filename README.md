@@ -24,7 +24,7 @@ https://shadowsocksr.cat/<br />
 ##### 免费v2ray
 https://v2ray.cat<br />
 
-##### 免费机场(待补充)
+##### 白嫖机场(待补充)
 
 
 #### 已失效

@@ -34,6 +34,6 @@ https://github.com/NoBey/Shadowsocks-free<br />
 https://www.freess.win/index.php/archives/10.html<br />
 https://sss.kiwi/free/start.html<br />
 https://www.banxia.me/1484.html<br />
-https://nayo.moe/ss 已失效<br />
+https://nayo.moe/ss<br />
 https://freess.pub/<br />
 http://www.shadowsocks.asia/mianfei/10.html<br />

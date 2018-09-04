@@ -1,4 +1,4 @@
-## 强烈推荐
+### 强烈推荐
 
 https://t.me/gyjclub  固定订阅(更新较慢)：https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
 
@@ -25,8 +25,12 @@ https://shadowsocksr.cat/<br />
 https://v2ray.cat<br />
 https://t.me/V2ray_FREE<br />
 
-#### 提供免费ss的应用
-##### 安卓
+#### 白嫖机场(待补充)
+https://www.yahaha.us/
+
+
+### 提供免费ss的应用
+#### 安卓
 https://play.google.com/store/apps/details?id=cc.lapstudio.freesocks<br />
 https://play.google.com/store/apps/details?id=tech.com.freess<br />
 https://play.google.com/store/apps/details?id=ml.vpnfree.sserver<br />
@@ -42,7 +46,3 @@ https://play.google.com/store/apps/details?id=cc.dingnet.yunfangp<br />
 
 ##### ios & Mac
 待补充
-
-#### 白嫖机场(待补充)
-https://www.yahaha.us/
-

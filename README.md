@@ -21,12 +21,11 @@ http://yzkj-sc.tk<br />
 https://www.vpn168.tk/post/4.html<br />
 https://shadowsocksr.cat/<br />
 
-#### 免费v2ray
-https://github.com/max2max/freess/blob/master/v2ray.md<br />
-
 ### 白嫖机场(待补充)
 https://www.yahaha.us/
 
-
 ### 提供免费ss的应用
 https://github.com/max2max/freess/blob/master/app.md<br />
+
+### 免费v2ray
+https://github.com/max2max/freess/blob/master/v2ray.md<br />

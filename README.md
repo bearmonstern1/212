@@ -21,7 +21,7 @@ http://yzkj-sc.tk<br />
 https://www.vpn168.tk/post/4.html<br />
 https://shadowsocksr.cat/<br />
 
-### 白嫖机场(待补充)
+### 白嫖机场
 https://www.yahaha.us/
 
 ### 提供免费ss的应用

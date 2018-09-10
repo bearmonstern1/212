@@ -23,6 +23,6 @@
 
 ### 其他
 
-#### [白嫖机场](https://www.yahaha.us/)
-#### [提供免费ss的应用](https://github.com/max2max/freess/blob/master/app.md)
-#### [免费v2ray](https://github.com/max2max/freess/blob/master/v2ray.md)
+* #### [白嫖机场](https://www.yahaha.us/)
+* #### [提供免费ss的应用](https://github.com/max2max/freess/blob/master/app.md)
+* #### [免费v2ray](https://github.com/max2max/freess/blob/master/v2ray.md)

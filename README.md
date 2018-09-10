@@ -29,5 +29,4 @@ https://www.yahaha.us/
 
 
 ### 提供免费ss的应用
-#### 安卓
 https://github.com/max2max/freess/blob/master/app.md<br />

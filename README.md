@@ -2,8 +2,6 @@
 > 本repo仅提供来自网络的免费ss列表，不提供免费ss
 
 
-### 强烈推荐
-
 * https://t.me/gyjclub  固定订阅(更新较慢)：https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
 * https://tool.ssrshare.com/tool/free_ssr
 * https://free-ss.site
@@ -23,6 +21,8 @@
 * https://www.vpn168.tk/post/4.html
 * https://shadowsocksr.cat/
 
-### [白嫖机场](https://www.yahaha.us/)
-### [提供免费ss的应用](https://github.com/max2max/freess/blob/master/app.md)
-### [免费v2ray](https://github.com/max2max/freess/blob/master/v2ray.md)
+### 其他
+
+#### [白嫖机场](https://www.yahaha.us/)
+#### [提供免费ss的应用](https://github.com/max2max/freess/blob/master/app.md)
+#### [免费v2ray](https://github.com/max2max/freess/blob/master/v2ray.md)

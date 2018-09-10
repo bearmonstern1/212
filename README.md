@@ -22,9 +22,7 @@ https://www.vpn168.tk/post/4.html<br />
 https://shadowsocksr.cat/<br />
 
 #### 免费v2ray
-https://v2ray.cat<br />
-https://t.me/V2ray_FREE<br />
-https://v2ray.party/<br />
+https://github.com/max2max/freess/blob/master/v2ray.md<br />
 
 ### 白嫖机场(待补充)
 https://www.yahaha.us/

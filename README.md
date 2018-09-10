@@ -2,7 +2,7 @@
 > 本repo仅提供来自网络的免费ss列表，不提供免费ss
 
 
-> 强烈推荐
+### 强烈推荐
 
 https://t.me/gyjclub  固定订阅(更新较慢)：https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
 

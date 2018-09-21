@@ -1,5 +1,4 @@
-### 声明
-> 本repo仅提供来自网络的免费ss列表，不提供免费ss
+> 声明： 本repo仅提供来自网络的免费ss列表，不提供免费ss
 
 
 * https://t.me/gyjclub  固定订阅(更新较慢)：https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
@@ -20,7 +19,7 @@
 * https://shadowsocksr.cat
 * https://free.gyteng.com
 
-### 其他
+## 其他
 
 * #### [白嫖机场](https://www.yahaha.us/)
 * #### [提供免费ss的应用](https://github.com/max2max/freess/blob/master/app.md)

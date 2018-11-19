@@ -1,10 +1,8 @@
-> 声明： 本repo仅提供来自网络的免费ss列表，不提供免费ss
-
+> 本repo仅提供来自网络的免费ss列表，不提供免费ss
 
 * https://t.me/gyjclub  固定订阅(更新较慢)：https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
 * https://tool.ssrshare.com/tool/free_ssr
 * https://free-ss.site
-
 
 > 搜索shadowsocks或ss，很多白嫖机场
 
@@ -14,10 +12,13 @@
 * http://gdmi.weebly.com/3118523398online.html
 * https://ss.ishadowx.net
 * https://en.ss8.fun
-* https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 * https://www.vpn168.tk/post/4.html
 * https://shadowsocksr.cat
 * https://free.gyteng.com
+
+> 美帝亡我之心不死系列 —— 由某敌对势力提供的ss，有需要自取
+
+* https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 ## 其他
 

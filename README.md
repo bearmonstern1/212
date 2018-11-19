@@ -1,7 +1,7 @@
 > 本repo仅提供来自网络的免费ss列表，不提供免费ss
 
 * https://t.me/gyjclub  固定订阅(更新较慢)：https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
-* https://tool.ssrshare.com/tool/free_ssr
+* https://www.ssrtool.com/tool/free_ssr
 * https://free-ss.site
 
 > 搜索shadowsocks或ss，很多白嫖机场

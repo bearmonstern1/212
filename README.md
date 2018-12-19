@@ -15,6 +15,7 @@
 * https://www.vpn168.tk/post/4.html
 * https://shadowsocksr.cat
 * https://free.gyteng.com
+* http://faranoo.ga
 
 > 美帝亡我之心不死系列 —— 由某敌对势力提供的ss，有需要自取
 

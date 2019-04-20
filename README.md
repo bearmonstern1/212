@@ -7,16 +7,10 @@
 
 > 搜索shadowsocks或ss，很多白嫖机场
 
-* https://doub.io/sszhfx
-* https://ss.freess.org
 * https://la4ji.blogspot.com/2017/09/shadowsocks-shadowsocks.html?m=1
 * http://gdmi.weebly.com/3118523398online.html
-* https://ss.ishadowx.net
 * https://en.ss8.fun
-* https://www.vpn168.tk/post/4.html
-* https://shadowsocksr.cat
 * https://free.gyteng.com
-* http://faranoo.ga
 
 > 美帝亡我之心不死系列 —— 由某敌对势力提供的ss，有需要自取
 

@@ -4,6 +4,7 @@
 * https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com
 * https://www.ssrtool.com/tool/free_ssr
 * https://free-ss.site
+* https://t.me/SSRlist
 
 > 搜索shadowsocks或ss，很多白嫖机场
 

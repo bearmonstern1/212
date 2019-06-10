@@ -7,6 +7,7 @@
 * https://t.me/s/SSRlist
 * https://t.me/s/gyjclub
 * https://lncn.org/
+* https://www.wuwweb.com/
 
 > 搜索shadowsocks或ss，很多白嫖机场
 

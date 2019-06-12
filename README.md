@@ -21,7 +21,7 @@
 
 ## 其他
 
-* #### [白嫖机场](https://www.yahaha.us/)
+* #### [白嫖机场](https://github.com/max2max/freess/blob/master/%E7%99%BD%E5%AB%96%E6%9C%BA%E5%9C%BA.md)
 * #### [美区 Apple ID](https://github.com/max2max/freess/blob/master/%E7%BE%8E%E5%8C%BAid.md)
 * #### [提供免费ss的应用](https://github.com/max2max/freess/blob/master/app.md)
 * #### [免费v2ray](https://github.com/max2max/freess/blob/master/v2ray.md)

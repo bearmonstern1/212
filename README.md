@@ -19,6 +19,13 @@
 
 * https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
+## 搜索引擎
+
+* #### Google     [https://www.google.com/search?q=freess](https://www.google.com/search?q=freess)
+* #### Bing       [https://www.bing.com/search?q=freess](https://www.bing.com/search?q=freess)
+* #### Yandex     [https://yandex.com/search/?text=freess](https://yandex.com/search/?text=freess)
+* #### DuckDuckgo [https://duckduckgo.com/?q=freess](https://duckduckgo.com/?q=freess)
+
 ## 其他
 
 * #### [白嫖机场](https://github.com/max2max/freess/blob/master/%E7%99%BD%E5%AB%96%E6%9C%BA%E5%9C%BA.md)

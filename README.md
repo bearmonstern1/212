@@ -34,3 +34,4 @@
 * #### [免费v2ray](https://github.com/max2max/freess/blob/master/v2ray.md)
 * #### [谷歌镜像](https://github.com/max2max/freess/blob/master/%E8%B0%B7%E6%AD%8C%26%E8%B0%B7%E6%AD%8C%E5%AD%A6%E6%9C%AF%E9%95%9C%E5%83%8F.md)
 * #### [被墙列表](https://github.com/max2max/freess/blob/master/%E8%A2%AB%E5%A2%99%E5%88%97%E8%A1%A8.md)
+* #### [个人支付接口](https://github.com/max2max/freess/blob/master/%E4%B8%AA%E4%BA%BA%E6%94%AF%E4%BB%98%E6%8E%A5%E5%8F%A3.md)

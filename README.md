@@ -29,7 +29,7 @@
 ## 其他
 
 * #### [白嫖机场](https://github.com/max2max/freess/blob/master/%E7%99%BD%E5%AB%96%E6%9C%BA%E5%9C%BA.md)
-* #### [机场选择](https://github.com/max2max/freess/blob/master/%E6%9C%BA%E5%9C%BA%E9%80%89%E6%8B%A9.md)
+* #### [机场推荐](https://github.com/max2max/freess/blob/master/%E6%9C%BA%E5%9C%BA%E9%80%89%E6%8B%A9.md)
 * #### [美区 Apple ID](https://github.com/max2max/freess/blob/master/%E7%BE%8E%E5%8C%BAid.md)
 * #### [提供免费ss的应用](https://github.com/max2max/freess/blob/master/app.md)
 * #### [免费v2ray](https://github.com/max2max/freess/blob/master/v2ray.md)

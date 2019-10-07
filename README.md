@@ -4,6 +4,7 @@
 * https://free-ss.site
 * https://t.me/s/SSRlist
 * https://t.me/s/gyjclub
+* https://t.me/s/onessr
 * https://lncn.org/
 * https://www.wuwweb.com/
 

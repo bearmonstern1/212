@@ -15,6 +15,10 @@
 * https://free.gyteng.com
 * https://inssr.pro/free
 
+> 自动爬取网络公开免费的SS、SSR并替换掉本地软件的账号密码配置
+
+* https://github.com/maxmeng93/Get-Free-SS
+
 > 美帝亡我之心不死系列 —— 由某敌对势力提供的ss，有需要自取
 
 * https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7

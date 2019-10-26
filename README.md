@@ -32,7 +32,7 @@
 
 ## 其他
 
-* #### [SS相关项目]https://github.com/max2max/freess/blob/master/SS%E7%9B%B8%E5%85%B3%E9%A1%B9%E7%9B%AE.md)
+* #### [SS相关项目](https://github.com/max2max/freess/blob/master/SS%E7%9B%B8%E5%85%B3%E9%A1%B9%E7%9B%AE.md)
 * #### [白嫖机场](https://github.com/max2max/freess/blob/master/%E7%99%BD%E5%AB%96%E6%9C%BA%E5%9C%BA.md)
 * #### [机场推荐](https://github.com/max2max/freess/blob/master/%E6%9C%BA%E5%9C%BA%E9%80%89%E6%8B%A9.md)
 * #### [美区 Apple ID](https://github.com/max2max/freess/blob/master/%E7%BE%8E%E5%8C%BAid.md)
